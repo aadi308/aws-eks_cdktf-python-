@@ -22,8 +22,10 @@ Commands:
   cdktf login              Retrieves an API token to connect to Terraform Cloud.
   cdktf synth [OPTIONS]    Synthesizes Terraform code for the given app in a directory.
 ```
+```
 ~$ cdktf init --template="python"
 
+```
 Install Pipenv
 
 ```
